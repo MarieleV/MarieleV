@@ -69,4 +69,3 @@ Também possuo **Excel em nível avançado** e com conhecimento de **Power BI** 
 
 - Email: silvamariele797@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/mariele-vieira-8698091b7/
-- GitHub: https://github.com/MarieleV
