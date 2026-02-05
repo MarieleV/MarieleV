@@ -32,10 +32,10 @@ Também possuo **Excel em nível avançado** e com conhecimento de **Power BI** 
 
 | Categoria | Competências |
 |---------|--------------|
-| Linguagens | Python • SQL |
+| Linguagens | Python • SQL • JavaScript • C++ |
 | Análise de Dados | Excel Avançado • Power BI Intermediário |
-| Banco de Dados | MySQL • PostgreSQL |
-| Conceitos | Modelagem de Dados • Consultas SQL • Limpeza de Dados • Análise Exploratória |
+| Banco de Dados | MySQL |
+| Conceitos | Levantamento de Requisitos • Consultas SQL • ETL • Machine Learning|
 
 
 ---
