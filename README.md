@@ -67,7 +67,7 @@ Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação
   <tr>
     <td width="50%">
       <h3>📑 Notificação Normativa e Gestão de Ouvidoria</h3>
-      <p>Projeto voltado à construção de minutas judiciais utilizando API de Inteligencia Artificial do Google.</p>
+      <p>Projeto voltado à gestão de notificações judiciais, ouvidoria e multas de consumo de água</p>
       <a href="https://github.com/MarieleV/Notificacao-CAJ">🔗 Ver repositório</a>
     </td>
     <td width="50%">
