@@ -60,15 +60,15 @@ Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação
     </td>
     <td width="50%">
       <h3>📦 Leilão de Entregas</h3>
-      <p>Sistema de leilão para otimização e alocação de entregas.</p>
+      <p>Otimização e alocação de entregas utilizando Inteligencia Artificial.</p>
       <a href="https://github.com/MarieleV/Leilao-Entregas-IA">🔗 Ver repositório</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>💙 Universo Down</h3>
-      <p>Projeto voltado à conscientização e apoio sobre a Síndrome de Down.</p>
-      <a href="https://github.com/MarieleV/universo-down">🔗 Ver repositório</a>
+      <h3>📑 Notificação Normativa e Gestão de Ouvidoria</h3>
+      <p>Projeto voltado à construção de minutas judiciais utilizando API de Inteligencia Artificial do Google.</p>
+      <a href="https://github.com/MarieleV/Notificacao-CAJ">🔗 Ver repositório</a>
     </td>
     <td width="50%">
       <h3>🕒 Sistema Ponto RH</h3>
