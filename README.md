@@ -83,8 +83,8 @@ Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MarieleV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarieleV&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=MarieleV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1&v=1" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarieleV&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&v=1" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
