@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarieleV&label=Profile%20Views&color=475569&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MarieleV&label=Profile%20Views&color=D32F2F&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/MarieleV-7bb869316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-475569?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=FFFFFF" alt="LinkedIn" />
   </a>
 </p>
 
