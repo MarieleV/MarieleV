@@ -13,7 +13,7 @@
 
 ## 🎯 Sobre mim
 
-Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação de aplicações inteligentes com Grandes Modelos de Linguagem (LLMs). Conecto pesquisa de ponta a soluções de software escaláveis e robustas, atuando no ciclo completo — do modelo ao backend e interface.
+Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação de aplicações inteligentes com Grandes Modelos de Linguagem (LLMs). Conecto pesquisa de ponta a soluções de software escaláveis e robustas, atuando no ciclo completo, do modelo ao backend e interface.
 
 <br/>
 
