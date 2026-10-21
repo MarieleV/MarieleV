@@ -51,7 +51,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
         <img src="https://cdn.simpleicons.org/express/CBD5E1" width="40" height="40" alt="Express"/><br/>Express
       </td>
     </tr>
-    <!-- Data & Machine Learning -->
+    <!-- Data & Machine Learning (Parte 1) -->
     <tr>
       <td align="center">
         <img src="https://cdn.simpleicons.org/pytorch/CBD5E1" width="40" height="40" alt="PyTorch"/><br/>PyTorch
@@ -61,6 +61,21 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
       </td>
       <td align="center">
         <img src="https://cdn.simpleicons.org/pandas/CBD5E1" width="40" height="40" alt="Pandas"/><br/>Pandas
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/numpy/CBD5E1" width="40" height="40" alt="NumPy"/><br/>NumPy
+      </td>
+    </tr>
+    <!-- Data & Machine Learning (Parte 2) -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/tensorflow/CBD5E1" width="40" height="40" alt="TensorFlow"/><br/>TensorFlow
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/huggingface/CBD5E1" width="40" height="40" alt="Hugging Face"/><br/>Hugging Face
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/jupyter/CBD5E1" width="40" height="40" alt="Jupyter"/><br/>Jupyter
       </td>
       <td align="center">
         <img src="https://cdn.simpleicons.org/googlecolab/CBD5E1" width="40" height="40" alt="Google Colab"/><br/>Google Colab
@@ -81,7 +96,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
         <img src="https://cdn.simpleicons.org/rabbitmq/CBD5E1" width="40" height="40" alt="RabbitMQ"/><br/>RabbitMQ
       </td>
     </tr>
-    <!-- Infra & DevOps -->
+    <!-- DevOps & Infra -->
     <tr>
       <td align="center">
         <img src="https://cdn.simpleicons.org/celery/CBD5E1" width="40" height="40" alt="Celery"/><br/>Celery
@@ -94,21 +109,6 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
       </td>
       <td align="center">
         <img src="https://cdn.simpleicons.org/githubactions/CBD5E1" width="40" height="40" alt="GitHub Actions"/><br/>GitHub Actions
-      </td>
-    </tr>
-    <!-- Qualidade, Automação & Tools -->
-    <tr>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/sonarqube/CBD5E1" width="40" height="40" alt="SonarCloud"/><br/>SonarCloud
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/playwright/CBD5E1?v=1" width="40" height="40" alt="Playwright"/><br/>Playwright
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/postman/CBD5E1" width="40" height="40" alt="Postman"/><br/>Postman
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/vercel/CBD5E1" width="40" height="40" alt="Vercel"/><br/>Vercel
       </td>
     </tr>
   </table>
