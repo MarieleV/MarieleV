@@ -1,21 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=475569&center=true&vCenter=true&width=650&height=60&lines=Oi%2C+me+chamo+Mariele+Vieira;AI+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=1200&color=475569&center=true&vCenter=true&width=650&height=60&lines=Mariele+Vieira;AI+Developer;Software+Engineer" alt="Mariele Vieira - AI Developer - Software Engineer" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarieleV&label=Profile%20Views&color=475569&style=flat-square" alt="Profile Views" />
+  Construindo soluções de IA e automação com foco em software escalável
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/MarieleV-7bb869316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-475569?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:silvamariele797@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://github.com/MarieleV?tab=repositories">
+    <img src="https://img.shields.io/badge/Projetos-64748B?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
   </a>
 </p>
 
 ---
 
-## 🎯 Sobre mim
+<p align="center">
+Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência Artificial e automação. Atuo no ciclo completo de uma solução: da experimentação de modelos e processamento de dados à construção de microsserviços, mensageria e automações web.
 
-Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência Artificial e automação. Conecto pesquisa de ponta a soluções de software escaláveis, atuando no ciclo completo: desde a experimentação de modelos e processamento de dados, até a construção de microsserviços robustos, mensageria e automações web.
+**Atualmente:** desenvolvendo APIs em Python/FastAPI e explorando aplicações de IA em otimização e automação.
+</p>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -155,17 +166,6 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 </div>
 
 <br/>
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/MarieleV-7bb869316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:silvamariele797@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:64748B&height=100&section=footer" width="100%"/>
