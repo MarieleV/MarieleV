@@ -121,36 +121,51 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 
 <br/>
 
-## 🚀 Projetos em Destaque
+## 💻 Projetos em Destaque
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>💳 API de Faturamento</h3>
-      <p>Microsserviço REST em Python (FastAPI/PostgreSQL) para gestão de pagamentos e faturamento.</p>
-      <a href="#">🔗 Ver repositório</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/NOME-DO-REPO">API de Faturamento</a></h3>
+      <p>Microsserviço REST para gestão de pagamentos e faturamento, com foco em organização de domínio e persistência confiável.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
     </td>
-    <td width="50%">
-      <h3>📦 Leilão de Entregas</h3>
-      <p>Sistema inteligente para otimização e alocação dinâmica de entregas.</p>
-      <a href="https://github.com/MarieleV/Leilao-Entregas-IA">🔗 Ver repositório</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/Leilao-Entregas-IA">Leilão de Entregas</a></h3>
+      <p>Sistema para otimização e alocação dinâmica de entregas, com lógica de leilão para decidir a melhor atribuição.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/IA-334155?style=flat-square" alt="IA" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>💙 Universo Down</h3>
-      <p>Plataforma voltada à conscientização e apoio educacional sobre a Síndrome de Down.</p>
-      <a href="https://github.com/MarieleV/universo-down">🔗 Ver repositório</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/universo-down">Universo Down</a></h3>
+      <p>Plataforma de conscientização e apoio educacional sobre a Síndrome de Down.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
     </td>
-    <td width="50%">
-      <h3>🕒 Sistema Ponto RH</h3>
-      <p>Sistema de controle de ponto e gestão automatizada de recursos humanos.</p>
-      <a href="https://github.com/MarieleV/Sistema-Ponto-RH">🔗 Ver repositório</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/Sistema-Ponto-RH">Sistema Ponto RH</a></h3>
+      <p>Controle de ponto e gestão automatizada de recursos humanos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/MarieleV?tab=repositories">Ver todos os repositórios →</a>
+</p>
 
 ## 📈 GitHub Analytics
 
