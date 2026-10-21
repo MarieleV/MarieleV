@@ -72,28 +72,43 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
         <img src="https://cdn.simpleicons.org/postgresql/CBD5E1" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
       </td>
       <td align="center">
+        <img src="https://cdn.simpleicons.org/mongodb/CBD5E1" width="40" height="40" alt="MongoDB"/><br/>MongoDB
+      </td>
+      <td align="center">
         <img src="https://cdn.simpleicons.org/redis/CBD5E1" width="40" height="40" alt="Redis"/><br/>Redis
       </td>
       <td align="center">
         <img src="https://cdn.simpleicons.org/rabbitmq/CBD5E1" width="40" height="40" alt="RabbitMQ"/><br/>RabbitMQ
       </td>
+    </tr>
+    <!-- Infra & DevOps -->
+    <tr>
       <td align="center">
         <img src="https://cdn.simpleicons.org/celery/CBD5E1" width="40" height="40" alt="Celery"/><br/>Celery
       </td>
-    </tr>
-    <!-- DevOps, Qualidade & Automação -->
-    <tr>
       <td align="center">
         <img src="https://cdn.simpleicons.org/docker/CBD5E1" width="40" height="40" alt="Docker"/><br/>Docker
       </td>
       <td align="center">
+        <img src="https://cdn.simpleicons.org/git/CBD5E1" width="40" height="40" alt="Git"/><br/>Git
+      </td>
+      <td align="center">
         <img src="https://cdn.simpleicons.org/githubactions/CBD5E1" width="40" height="40" alt="GitHub Actions"/><br/>GitHub Actions
       </td>
+    </tr>
+    <!-- Qualidade, Automação & Tools -->
+    <tr>
       <td align="center">
-        <img src="https://api.iconify.design/simple-icons:sonarcloud.svg?color=%23CBD5E1" width="40" height="40" alt="SonarCloud"/><br/>SonarCloud
+        <img src="https://cdn.simpleicons.org/sonarqube/CBD5E1" width="40" height="40" alt="SonarCloud"/><br/>SonarCloud
       </td>
       <td align="center">
-        <img src="https://api.iconify.design/simple-icons:playwright.svg?color=%23CBD5E1" width="40" height="40" alt="Playwright"/><br/>Playwright
+        <img src="https://cdn.simpleicons.org/playwright/CBD5E1?v=1" width="40" height="40" alt="Playwright"/><br/>Playwright
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/postman/CBD5E1" width="40" height="40" alt="Postman"/><br/>Postman
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/vercel/CBD5E1" width="40" height="40" alt="Vercel"/><br/>Vercel
       </td>
     </tr>
   </table>
@@ -108,7 +123,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
     <td width="50%">
       <h3>💳 API de Faturamento</h3>
       <p>Microsserviço REST em Python (FastAPI/PostgreSQL) para gestão de pagamentos e faturamento.</p>
-      <a href="#">🔗 Ver repositório</a> <!-- Substitua pelo link real do seu repositório -->
+      <a href="#">🔗 Ver repositório</a>
     </td>
     <td width="50%">
       <h3>📦 Leilão de Entregas</h3>
