@@ -21,68 +21,35 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 
 <div align="center">
   <table align="center" cellspacing="10" cellpadding="10">
-    <!-- Frontend -->
+    <!-- Linguagens & Frontend -->
     <tr>
-      <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/react/CBD5E1" width="40" height="40" alt="React"/><br/>React
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/nextdotjs/CBD5E1" width="40" height="40" alt="Next.js"/><br/>Next.js
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/typescript/CBD5E1" width="40" height="40" alt="TypeScript"/><br/>TypeScript
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/tailwindcss/CBD5E1" width="40" height="40" alt="Tailwind"/><br/>Tailwind
-      </td>
-    </tr>
-    <!-- Backend -->
-    <tr>
-      <td align="center">
+      <td align="center" width="16%">
         <img src="https://cdn.simpleicons.org/python/CBD5E1" width="40" height="40" alt="Python"/><br/>Python
       </td>
+      <td align="center" width="16%">
+        <img src="https://cdn.simpleicons.org/typescript/CBD5E1" width="40" height="40" alt="TypeScript"/><br/>TypeScript
+      </td>
+      <td align="center" width="16%">
+        <img src="https://cdn.simpleicons.org/react/CBD5E1" width="40" height="40" alt="React"/><br/>React
+      </td>
+      <td align="center" width="16%">
+        <img src="https://cdn.simpleicons.org/nextdotjs/CBD5E1" width="40" height="40" alt="Next.js"/><br/>Next.js
+      </td>
+      <td align="center" width="16%">
+        <img src="https://cdn.simpleicons.org/tailwindcss/CBD5E1" width="40" height="40" alt="Tailwind"/><br/>Tailwind
+      </td>
+      <td align="center" width="16%">
+        <img src="https://cdn.simpleicons.org/nodedotjs/CBD5E1" width="40" height="40" alt="Node.js"/><br/>Node.js
+      </td>
+    </tr>
+    <!-- Backend & Bancos de Dados -->
+    <tr>
       <td align="center">
         <img src="https://cdn.simpleicons.org/fastapi/CBD5E1" width="40" height="40" alt="FastAPI"/><br/>FastAPI
       </td>
       <td align="center">
-        <img src="https://cdn.simpleicons.org/nodedotjs/CBD5E1" width="40" height="40" alt="Node.js"/><br/>Node.js
-      </td>
-      <td align="center">
         <img src="https://cdn.simpleicons.org/express/CBD5E1" width="40" height="40" alt="Express"/><br/>Express
       </td>
-    </tr>
-    <!-- Data & Machine Learning (Parte 1) -->
-    <tr>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/pytorch/CBD5E1" width="40" height="40" alt="PyTorch"/><br/>PyTorch
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/scikitlearn/CBD5E1" width="40" height="40" alt="Scikit-Learn"/><br/>Scikit-Learn
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/pandas/CBD5E1" width="40" height="40" alt="Pandas"/><br/>Pandas
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/numpy/CBD5E1" width="40" height="40" alt="NumPy"/><br/>NumPy
-      </td>
-    </tr>
-    <!-- Data & Machine Learning (Parte 2) -->
-    <tr>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/tensorflow/CBD5E1" width="40" height="40" alt="TensorFlow"/><br/>TensorFlow
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/huggingface/CBD5E1" width="40" height="40" alt="Hugging Face"/><br/>Hugging Face
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/jupyter/CBD5E1" width="40" height="40" alt="Jupyter"/><br/>Jupyter
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/googlecolab/CBD5E1" width="40" height="40" alt="Google Colab"/><br/>Google Colab
-      </td>
-    </tr>
-    <!-- Banco de Dados & Mensageria -->
-    <tr>
       <td align="center">
         <img src="https://cdn.simpleicons.org/postgresql/CBD5E1" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
       </td>
@@ -96,8 +63,35 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
         <img src="https://cdn.simpleicons.org/rabbitmq/CBD5E1" width="40" height="40" alt="RabbitMQ"/><br/>RabbitMQ
       </td>
     </tr>
-    <!-- DevOps & Infra -->
+    <!-- Dados & IA -->
     <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/pytorch/CBD5E1" width="40" height="40" alt="PyTorch"/><br/>PyTorch
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/tensorflow/CBD5E1" width="40" height="40" alt="TensorFlow"/><br/>TensorFlow
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/scikitlearn/CBD5E1" width="40" height="40" alt="Scikit-Learn"/><br/>Scikit-Learn
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/huggingface/CBD5E1" width="40" height="40" alt="Hugging Face"/><br/>Hugging Face
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/pandas/CBD5E1" width="40" height="40" alt="Pandas"/><br/>Pandas
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/numpy/CBD5E1" width="40" height="40" alt="NumPy"/><br/>NumPy
+      </td>
+    </tr>
+    <!-- Ferramentas, Infra & DevOps -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/jupyter/CBD5E1" width="40" height="40" alt="Jupyter"/><br/>Jupyter
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/googlecolab/CBD5E1" width="40" height="40" alt="Google Colab"/><br/>Google Colab
+      </td>
       <td align="center">
         <img src="https://cdn.simpleicons.org/celery/CBD5E1" width="40" height="40" alt="Celery"/><br/>Celery
       </td>
@@ -157,7 +151,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarieleV&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=MarieleV&theme=dark&background=0D1117&border=0D1117&ring=94A3B8&fire=94A3B8&currStreakNum=CBD5E1&sideNums=CBD5E1&currStreakLabel=64748B&sideLabels=64748B&dates=64748B&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
