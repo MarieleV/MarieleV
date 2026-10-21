@@ -126,38 +126,67 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarieleV/NOME-DO-REPO">API de Faturamento</a></h3>
-      <p>Microsserviço REST para gestão de pagamentos e faturamento, com foco em organização de domínio e persistência confiável.</p>
+      <h3><a href="https://github.com/MarieleV/Notificacao-CAJ">Notificação CAJ</a></h3>
+      <p>Plataforma full-stack em produção para a Companhia Águas de Joinville: cálculo de faturamento, geração de documentos oficiais e redação de notificações com IA (Gemini).</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Gemini-334155?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      </p>
+      <p><a href="https://notificacao-caj-7ncb.vercel.app">Demo online</a> · <a href="https://github.com/MarieleV/Notificacao-CAJ">Código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/PlataformaCobranca">Plataforma de Cobrança</a></h3>
+      <p>SaaS B2B de cobrança automatizada (TCC): importação em lote, validação de dados, réguas de cobrança e disparo multicanal com arquitetura orientada a mensageria.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/RabbitMQ-334155?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
         <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarieleV/Leilao-Entregas-IA">Leilão de Entregas</a></h3>
-      <p>Sistema para otimização e alocação dinâmica de entregas, com lógica de leilão para decidir a melhor atribuição.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/IA-334155?style=flat-square" alt="IA" />
+        <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarieleV/universo-down">Universo Down</a></h3>
-      <p>Plataforma de conscientização e apoio educacional sobre a Síndrome de Down.</p>
+      <h3><a href="https://github.com/MarieleV/fastapi-data-ingestion">API de Ingestão de Dados</a></h3>
+      <p>Pipeline de mini-ETL: recebe planilhas CSV/XLSX, limpa com Pandas, valida CPF/CNPJ com Pydantic e evita duplicidade em SQLite, retornando erros linha a linha.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarieleV/Sistema-Ponto-RH">Sistema Ponto RH</a></h3>
-      <p>Controle de ponto e gestão automatizada de recursos humanos.</p>
+      <h3><a href="https://github.com/MarieleV/CRISP-DM">Satisfação em Aeroportos (CRISP-DM)</a></h3>
+      <p>Segmentação de passageiros com K-Means sobre ~25 mil respostas de dados abertos do governo, seguindo o ciclo CRISP-DM até recomendações de negócio.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/Jupyter-334155?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/scikit-learn-inference-service">Serviço de Inferência de ML</a></h3>
+      <p>Microsserviço que separa treino e inferência: modelo semi-supervisionado treinado em script isolado, serializado com joblib e servido via FastAPI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarieleV/Sistema-PontoRH">Sistema de Ponto RH</a></h3>
+      <p>Projeto extensionista para a CONSULTH: documentação completa (requisitos, arquitetura, protótipos no Figma, backlog) e front-end em React.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-334155?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Front--end%20%2B%20Docs-64748B?style=flat-square" alt="Front-end e documentação" />
       </p>
     </td>
   </tr>
