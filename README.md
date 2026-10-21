@@ -1,78 +1,130 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=475569&center=true&vCenter=true&width=650&height=60&lines=Oi%2C+me+chamo+Mariele+Vieira;AI+Developer;Frontend+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=475569&center=true&vCenter=true&width=650&height=60&lines=Oi%2C+me+chamo+Mariele+Vieira;AI+Developer;Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarieleV&label=Profile%20Views&color=475569&style=flat-square" alt="Profile Views" />
-  </a>
   <a href="https://www.linkedin.com/in/MarieleV-7bb869316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-connect-475569?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<br/>
+---
 
 ## 🎯 Sobre mim
 
-Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação de aplicações inteligentes com Grandes Modelos de Linguagem (LLMs). Conecto pesquisa de ponta a soluções de software escaláveis e robustas, atuando no ciclo completo — do modelo ao backend e interface.
+Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência Artificial e automação. Conecto pesquisa de ponta a soluções de software escaláveis, atuando no ciclo completo: desde a experimentação de modelos e processamento de dados, até a construção de microsserviços robustos, mensageria e automações web.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning**
-
-<img src="https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-1E293B?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-334155?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-334155?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Python-475569?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-475569?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Node.js-475569?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-475569?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-
-**Databases & DevOps**
-
-<img src="https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-64748B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Docker-64748B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-64748B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<div align="center">
+  <table align="center" cellspacing="10" cellpadding="10">
+    <!-- Frontend -->
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.simpleicons.org/react/CBD5E1" width="40" height="40" alt="React"/><br/>React
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.simpleicons.org/nextdotjs/CBD5E1" width="40" height="40" alt="Next.js"/><br/>Next.js
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.simpleicons.org/typescript/CBD5E1" width="40" height="40" alt="TypeScript"/><br/>TypeScript
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.simpleicons.org/tailwindcss/CBD5E1" width="40" height="40" alt="Tailwind"/><br/>Tailwind
+      </td>
+    </tr>
+    <!-- Backend -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/python/CBD5E1" width="40" height="40" alt="Python"/><br/>Python
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/fastapi/CBD5E1" width="40" height="40" alt="FastAPI"/><br/>FastAPI
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/nodedotjs/CBD5E1" width="40" height="40" alt="Node.js"/><br/>Node.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/express/CBD5E1" width="40" height="40" alt="Express"/><br/>Express
+      </td>
+    </tr>
+    <!-- Data & Machine Learning -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/pytorch/CBD5E1" width="40" height="40" alt="PyTorch"/><br/>PyTorch
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/scikitlearn/CBD5E1" width="40" height="40" alt="Scikit-Learn"/><br/>Scikit-Learn
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/pandas/CBD5E1" width="40" height="40" alt="Pandas"/><br/>Pandas
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/googlecolab/CBD5E1" width="40" height="40" alt="Google Colab"/><br/>Google Colab
+      </td>
+    </tr>
+    <!-- Banco de Dados & Mensageria -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/postgresql/CBD5E1" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/redis/CBD5E1" width="40" height="40" alt="Redis"/><br/>Redis
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/rabbitmq/CBD5E1" width="40" height="40" alt="RabbitMQ"/><br/>RabbitMQ
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/celery/CBD5E1" width="40" height="40" alt="Celery"/><br/>Celery
+      </td>
+    </tr>
+    <!-- DevOps, Qualidade & Automação -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/docker/CBD5E1" width="40" height="40" alt="Docker"/><br/>Docker
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/githubactions/CBD5E1" width="40" height="40" alt="GitHub Actions"/><br/>GitHub Actions
+      </td>
+      <td align="center">
+        <img src="https://api.iconify.design/simple-icons:sonarcloud.svg?color=%23CBD5E1" width="40" height="40" alt="SonarCloud"/><br/>SonarCloud
+      </td>
+      <td align="center">
+        <img src="https://api.iconify.design/simple-icons:playwright.svg?color=%23CBD5E1" width="40" height="40" alt="Playwright"/><br/>Playwright
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 ## 🚀 Projetos em Destaque
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%">
-      <h3>💬 IA de Texto</h3>
-      <p>Aplicação de processamento e geração de texto com IA.</p>
-      <a href="https://github.com/MarieleV/Teste-IAdeTexto">🔗 Ver repositório</a>
+      <h3>💳 API de Faturamento</h3>
+      <p>Microsserviço REST em Python (FastAPI/PostgreSQL) para gestão de pagamentos e faturamento.</p>
+      <a href="#">🔗 Ver repositório</a> <!-- Substitua pelo link real do seu repositório -->
     </td>
     <td width="50%">
       <h3>📦 Leilão de Entregas</h3>
-      <p>Sistema de leilão para otimização e alocação de entregas.</p>
+      <p>Sistema inteligente para otimização e alocação dinâmica de entregas.</p>
       <a href="https://github.com/MarieleV/Leilao-Entregas-IA">🔗 Ver repositório</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>💙 Universo Down</h3>
-      <p>Projeto voltado à conscientização e apoio sobre a Síndrome de Down.</p>
+      <p>Plataforma voltada à conscientização e apoio educacional sobre a Síndrome de Down.</p>
       <a href="https://github.com/MarieleV/universo-down">🔗 Ver repositório</a>
     </td>
     <td width="50%">
       <h3>🕒 Sistema Ponto RH</h3>
-      <p>Sistema de controle de ponto e gestão de recursos humanos.</p>
+      <p>Sistema de controle de ponto e gestão automatizada de recursos humanos.</p>
       <a href="https://github.com/MarieleV/Sistema-Ponto-RH">🔗 Ver repositório</a>
     </td>
   </tr>
@@ -87,6 +139,8 @@ Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarieleV&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1" alt="Top Languages" height="165"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarieleV&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
@@ -95,7 +149,7 @@ Estudante de Engenharia de Software e desenvolvimento de IA, focada na criação
 
 ## 📫 Contato
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/MarieleV-7bb869316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
