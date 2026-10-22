@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/MarieleV-7bb869316" target="_blank">
+  <a href="https://www.linkedin.com/in/mariele-vieira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:silvamariele797@gmail.com">
