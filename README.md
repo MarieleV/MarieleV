@@ -28,7 +28,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 
 ---
 
-## 🛠️ Tech Stack
+##  → Tech Stack
 
 <div align="center">
   <table align="center" cellspacing="10" cellpadding="10">
@@ -121,7 +121,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
 
 <br/>
 
-## 💻 Projetos em Destaque
+##  → Projetos em Destaque
 
 <table align="center" width="100%">
   <tr>
@@ -196,7 +196,7 @@ Estudante de Engenharia de Software e desenvolvedora com foco em Inteligência A
   <a href="https://github.com/MarieleV?tab=repositories">Ver todos os repositórios →</a>
 </p>
 
-## 📊 GitHub Analytics
+##  → GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarieleV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1" alt="GitHub Stats" height="165"/>
