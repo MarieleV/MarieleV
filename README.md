@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Construindo soluções de IA e automação com foco em software escalável
+  Construindo soluções de IA e automação com foco em software escalável.
 </p>
 
 <p align="center">
